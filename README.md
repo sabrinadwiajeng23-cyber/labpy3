@@ -258,10 +258,10 @@ Saldo saat ini: Rp 1000000
 1. Tarik Uang
 2. Keluar
 Pilih menu (1/2): 1
-Masukkan jumlah penarikan: 500000
+Masukkan jumlah penarikan: 300000
 Penarikan berhasil!
 
-Saldo saat ini: Rp 500000
+Saldo saat ini: Rp 700000
 1. Tarik Uang
 2. Keluar
 Pilih menu (1/2): 2
